@@ -9,3 +9,5 @@ require (
 	github.com/prometheus/client_golang v1.2.1
 	github.com/prometheus/prometheus v2.5.0+incompatible
 )
+
+replace github.com/digitalocean/go-openvswitch => github.com/armando-migliaccio/go-openvswitch v0.0.0-20190930211225-4d562c248160
